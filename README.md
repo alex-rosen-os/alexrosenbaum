@@ -4,9 +4,7 @@ Hi 👋 My name is Alex Rosenbaum
 Web Developer
 -------------
 
-Passionate learner, constantly expanding my knowledge in web & tech related fields. Interested in knowledge management systems, and systems as a whole.
-
-* 🌍  I'm based in Israel
+Passionate learner * 🌍  I'm based in Israel
 <!--
 **alexrosenbaum/alexrosenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
