@@ -1,7 +1,7 @@
 Hi 👋 My name is Alex Rosenbaum
 ===============================
 
-I'm A Web Developer
+I'm A Web Developer Interested in systems & design.
 -------------
 <!--
 **alexrosenbaum/alexrosenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
