@@ -1,9 +1,12 @@
 Hi 👋 My name is Alex Rosenbaum
 ===============================
 
-I'm A Web Developer
-Passionate learner, constantly expanding my knowledge in web & tech related fields. Interested in knowledge management systems, and systems as a whole. I am a fast learner, creative thinker, multitasker, who works well in a fast paced environment. Interested in contributing to the development of existing systems, while learning new skills and tools.
+Web Developer
 -------------
+
+Passionate learner, constantly expanding my knowledge in web & tech related fields. Interested in knowledge management systems, and systems as a whole. I am a fast learner, creative thinker, multitasker, who works well in a fast paced environment. Interested in contributing to the development of existing systems, while learning new skills and tools.
+
+* 🌍  I'm based in Israel
 <!--
 **alexrosenbaum/alexrosenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
