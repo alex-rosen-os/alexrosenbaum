@@ -4,7 +4,6 @@ Hi 👋 My name is Alex Rosenbaum
 Web Developer
 -------------
 
-Passionate learner * 🌍  I'm based in Israel
 <!--
 **alexrosenbaum/alexrosenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
