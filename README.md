@@ -1,4 +1,4 @@
-Hi 👋 My name is Alex Rosenbaum
+Hi 👋 My name is Alex
 ===============================
 
 Web Developer
