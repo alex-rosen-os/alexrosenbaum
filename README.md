@@ -8,7 +8,7 @@ Hi 👋 My name is Alex
 - Automation Testing
 - Node.js
 - CompTIA Network+
-- Ethical Hacking in Linux
+- Ethical Hacking with Linux & Python
 -------------
 
 <!--
