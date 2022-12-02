@@ -7,8 +7,8 @@ Hi 👋 My name is Alex
 - Data Analysis with SQL & Excel
 - Automation Testing
 - Node.js
-- Ethical Hacking in Linux
 - CompTIA Network+
+- Ethical Hacking in Linux
 -------------
 
 <!--
