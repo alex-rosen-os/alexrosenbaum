@@ -6,9 +6,9 @@ Hi 👋 My name is Alex
 🌱 I’m currently learning topics in  variety of fields including :
 - Data Analysis with SQL & Excel
 - Software Testing
-- NodeJs
+- Node.js
 - Ethical Hacking in Linux
-- CompTIA A+
+- CompTIA Network+
 -------------
 
 <!--
