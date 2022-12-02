@@ -4,7 +4,7 @@ Hi 👋 My name is Alex
 ⚡ I’m currently working as a Technical Support Team Lead & QA at web based company.
 
 🌱 I’m currently learning topics in  variety of fields including:
-- Data Analysis in SQL & Excel
+- Data Analysis with SQL & Excel
 - Software Testing
 - JavaScript
 - Ethical Hacking in Linux
