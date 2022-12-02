@@ -1,10 +1,14 @@
 Hi 👋 My name is Alex
 ===============================
 
-🔭 I’m currently working as a technical support team lead & QA at web based company.
+⚡ I’m currently working as a technical support team lead & QA at web based company.
 
-🌱 I’m currently learning a data analysis
-
+🌱 I’m currently learning topics in  variety of fields including:
+- Data Analysis in SQL & Excel
+- Software Testing
+- JavaScript
+- Ethical Hacking in Linux
+- CompTIA A+
 -------------
 
 <!--
