@@ -1,10 +1,6 @@
 Hi 👋 My name is Alex
 ===============================
 
-⚡ I’m currently working as a Technical Support Team Lead & QA at web based company.
-
-✨ Passionate web technologist, interested in knowledge management systems & problem solving. Constantly learning & expanding my knowledge base. I am a fast learner, autodidact, multidisciplinary, creative thinker who works well in a fast paced environment. Interested in contributing to the development of existing systems, while learning new skills and tools.✨
-
 -------------
 
 <!--
