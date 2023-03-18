@@ -8,10 +8,9 @@ Passionate about web development, constantly learning & expanding my knowledge b
 
 I like using different tools & programs, learning different structures & how they work within a system.
 
-My learning is vertical, rather then hierarchal: I move & mix between subjects & systems, 
-returning to started projects, 
+My learning is vertical, rather then hierarchal: I move & mix between subjects & systems,
 
-continuing development from different perspective & a different knowledge base.
+returning to started projects, continuing development from different perspective & a different knowledge base.
 
 
 -------------
