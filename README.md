@@ -6,9 +6,10 @@ Currently working as a Technical Support Team Lead & QA at a web based company.
 
 Passionate about web development, constantly learning & expanding my knowledge base. 
 
+I like using different tools & programs, learning different structures & how they work within a system.
+
 My learning is vertical, rather then hierarchal. I move & mix between subjects & systems, returning to started projects & creating new ones as i move through.
 
-i like using different tools, programs and systems. Learning different structures & how they work within a system.
 
 -------------
 
