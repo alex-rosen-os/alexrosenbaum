@@ -4,11 +4,11 @@ My name is Alex 🌱
 
 Currently working as a Technical Support Team Lead & QA at a web based company. 
 
-Passionate about web development, Constantly learning & expanding my knowledge base. 
+Passionate about web development, constantly learning & expanding my knowledge base. 
 
-my learning is vertical, rather then hierarchal. i move & mix between subjects & systems, returning to started projects & creating new ones as i move through.
+My learning is vertical, rather then hierarchal. I move & mix between subjects & systems, returning to started projects & creating new ones as i move through.
 
-i like using different tools, programs and systems, learning different structures & how they work within a system.
+i like using different tools, programs and systems. Learning different structures & how they work within a system.
 
 -------------
 
