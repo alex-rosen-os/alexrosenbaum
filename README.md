@@ -11,7 +11,7 @@ I like using different tools & programs, learning different structures & how the
 My learning is vertical, rather then hierarchal: I move & mix between subjects & systems, 
 returning to started projects, 
 
-continuing development from different perspective & knowledge base.
+continuing development from different perspective & a different knowledge base.
 
 
 -------------
