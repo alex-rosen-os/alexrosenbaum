@@ -8,7 +8,6 @@ Passionate about web development, constantly learning & expanding my knowledge b
 
 I enjoy using different tools & programs, learning different structures & how they work within a system.
 
-My learning is horizontal, i move & mix between subjects & systems.
 
 
 -------------
