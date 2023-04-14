@@ -2,11 +2,11 @@ Hi 👋
 
 My name is Alex 🌱
 
-Currently working as a Technical Support Team Lead & QA at a web based company. 
+Currently working as a Technical Support Team Lead at a web based company & a freelance web devloper. 
 
-Passionate about web development, constantly learning & expanding my knowledge base. 
+I have a diverse range of experience in various aspects of information technology, including data management, knowledge management, web development, testing, CMS & CRM systems, technical & procedure documentation. 
 
-I enjoy using different tools & programs, learning different structures & how they work within a system.
+I have a strong work ethic, analytical skills, passion for knowledge and delivering quality work.
 
 
 
