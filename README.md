@@ -2,7 +2,7 @@ Hello There 👋
 
 My name is Alex  🔌 🖱️ 🔋 🌱
 
-Currently working as a Technical Support Team Lead at a Web Based company &  A Freelance FullStack Devloper. 
+Currently working as a Technical Support Team Lead at a Web Based company &  A Freelance FullStack Developer. 
 
 I have a diverse range of experience in various aspects of Information Technology, including:
 
