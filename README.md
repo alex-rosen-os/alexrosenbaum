@@ -2,9 +2,11 @@ Hi 👋
 
 My name is Alex 🌱
 
-Currently working as a Technical Support Team Lead at a web based company & a freelance web devloper. 
+Currently working as a Technical Support Team Lead at a web based company & a Freelance Web Devloper. 
 
-I have a diverse range of experience in various aspects of information technology, including data management, knowledge management, web development, testing, CMS & CRM systems, technical & procedure documentation. 
+I have a diverse range of experience in various aspects of Information Technology, including:
+
+Data Management, Knowledge management, Web Development, Testing, CMS & CRM Systems, Technical & Procedure Documentation. 
 
 I have a strong work ethic, analytical skills, passion for knowledge and delivering quality work.
 
