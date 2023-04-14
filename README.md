@@ -1,6 +1,6 @@
-Hi 👋
+Hello There 👋
 
-My name is Alex 🌱
+My name is Alex  🔌 🖱️ 🔋 🌱
 
 Currently working as a Technical Support Team Lead at a web based company & a Freelance Web Devloper. 
 
