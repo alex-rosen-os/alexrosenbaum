@@ -2,15 +2,6 @@ Hello There 👋
 
 My name is Alex  🔌 🖱️ 🔋 🌱
 
-<!-- Currently working as a Technical Support Team Lead at a Web Based company &  A Freelance FullStack Developer. 
-
-I have a diverse range of experience in various aspects of Information Technology, including:
-
-Data Management, Knowledge management, Web Development, Testing, CMS & CRM Systems, Technical & Procedure Documentation. 
-
-I have a strong work ethic, analytical skills, passion for knowledge and delivering quality work.
--->
-
 
 
 -------------
